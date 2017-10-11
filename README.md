@@ -23,3 +23,10 @@ Le projet consiste à la réalisation d’une vitrine pour un magasin d’objets
 *	Recherche d’un produit par catégorie ou par magasin.
 *	Création d’une alerte sur un produit.
 *	Réception des notification d’évènement. 
+
+>###### Version 0.1  
+>A réaliser le : 18/10/2017
+>* Identification des tâches
+>* Répartition des tâches
+>* Réalisation d'un diagramme de gantt
+>* Analyse des techonologies utilisées
