@@ -3,7 +3,7 @@ Une application mobile multiplateforme
 
 Pour cloner le projet : 
 ```
-git clone https://github.com/PhilyT/KaraokeInverse.git  
+git clone https://github.com/Boucha93/App-Mobile-Vitrine.git
 ```  
 
 
