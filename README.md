@@ -1,6 +1,11 @@
 # App-Mobile-Vitrine
 Une application mobile multiplateforme 
 
+Pour cloner le projet : 
+```
+git clone https://github.com/PhilyT/KaraokeInverse.git  
+```  
+
 
 Le projet consiste à la réalisation d’une vitrine pour un magasin d’objets, pas d’achat via l’application, visualisation uniquement. 
 ## L’application est devisée en deux parties :
