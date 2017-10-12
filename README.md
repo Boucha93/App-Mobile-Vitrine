@@ -24,6 +24,16 @@ Le projet consiste à la réalisation d’une vitrine pour un magasin d’objets
 *	Création d’une alerte sur un produit.
 *	Réception des notification d’évènement. 
 
+### Contributeurs  
+| Tâches | Contributeurs |  
+|:---:|:---:|
+|creer un cahier de charge pour l'application  |BOUCHTI Nordine **&** ZAIDI Walid **&** CHAHIR Ayoub |
+|la conception de l'application  |ZAIDI Walid **&** CHAHIR Ayoub  |
+|Base de donnée de l'application |BOUCHTI Nordine  |
+|developpement partie Back-office  |BOUCHTI Nordine **&** ZAIDI Walid **&** CHAHIR Ayoub  |
+|developpemnt partie Front-office  |BOUCHTI Nordine **&** ZAIDI Walid **&** CHAHIR Ayoub  |
+
+
 >###### Version 0.1  
 >A réaliser le : 18/10/2017
 >* Identification des tâches
