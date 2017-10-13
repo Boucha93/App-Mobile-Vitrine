@@ -33,6 +33,8 @@ Le projet consiste à la réalisation d’une vitrine pour un magasin d’objets
 |developpement partie Back-office  |BOUCHTI Nordine **&** ZAIDI Walid **&** CHAHIR Ayoub  |
 |developpemnt partie Front-office  |BOUCHTI Nordine **&** ZAIDI Walid **&** CHAHIR Ayoub  |
 
+<img src = "./img/Gant-App.png" title = "diagramme de gantt" alt = "Diagramme de Gantt">
+
 
 >###### Version 0.1  
 >A réaliser le : 18/10/2017
